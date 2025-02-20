@@ -1,6 +1,6 @@
 Inspired by [Libraries Hawaii - Bardly Barbs](https://www.librarieshawaii.org/learn/brain-games/bardly-barbs/)  
 
-A simple-to-use **text expander** JavaScript to insult people with class.  
+A simple-to-use **text expander** JavaScript to insult people with class. You mangled mud-splattered strumpet.
 
 ## Some Examples:  
 
